@@ -6,5 +6,7 @@ class Main{
         System.out.println(new Date());
         System.err.println("this is update code");
         System.err.println("My name is Gk");
+        Student std=new Student();
+        std.sayHello();
     }
 }
